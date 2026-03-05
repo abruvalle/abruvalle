@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**abruvalle/abruvalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Abril Valle, a final-year Bioinformatics student from Argentina interested in the intersection of biology, data science and artificial intelligence.
 
-Here are some ideas to get you started:
+My main focus is analyzing biological and omics data using computational tools to generate insights that can contribute to research, healthcare and biotechnology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Interests
+
+- Bioinformatics
+- Computational Biology
+- Omics Data Analysis
+- Data Science
+- AI in Healthcare
+- Genomics
+
+---
+
+## 💻 Skills
+
+**Programming**
+- Python
+- C++
+- Bash
+
+**Data Analysis**
+- Pandas
+- NumPy
+- SciPy
+- Matplotlib
+
+**Bioinformatics Tools**
+- VMD
+- Glimmer
+- Prokka
+- Gap4
+
+---
+
+## 🚀 Current Goals
+
+- Contribute to bioinformatics projects
+- Apply machine learning to biological data
+- Collaborate in research and open-source projects
+- Build tools for biological data analysis
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/abril-valle
+- Email: abrilvalle64@hotmail.com
