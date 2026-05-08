@@ -16,7 +16,6 @@ I'm a final-year Bioinformatics student from Argentina, bridging biology, data s
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
 **Bioinformatics**
-*(Nota: Muchas herramientas bioinformáticas específicas no tienen logo oficial en las galerías de badges, pero podés crearlos como etiquetas genéricas)*
 ![VMD](https://img.shields.io/badge/VMD-000000?style=for-the-badge)
 ![Glimmer](https://img.shields.io/badge/Glimmer-000000?style=for-the-badge)
 ![Prokka](https://img.shields.io/badge/Prokka-000000?style=for-the-badge)
