@@ -1,53 +1,25 @@
-# Hi there 👋
+# Hi there 👋 I'm Abril Valle
 
-I'm Abril Valle, a final-year Bioinformatics student from Argentina interested in the intersection of biology, data science and artificial intelligence.
+I'm a final-year Bioinformatics student from Argentina, bridging biology, data science, and AI. My main focus is building computational tools and applying machine learning to omics data to drive insights in research and healthcare.
 
-My main focus is analyzing biological and omics data using computational tools to generate insights that can contribute to research, healthcare and biotechnology.
+### 💻 Tech Stack
 
----
+**Programming & OS**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## 🔬 Interests
+**Data Science**
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-- Bioinformatics
-- Computational Biology
-- Omics Data Analysis
-- Data Science
-- AI in Healthcare
-- Genomics
+**Bioinformatics**
+*(Nota: Muchas herramientas bioinformáticas específicas no tienen logo oficial en las galerías de badges, pero podés crearlos como etiquetas genéricas)*
+![VMD](https://img.shields.io/badge/VMD-000000?style=for-the-badge)
+![Glimmer](https://img.shields.io/badge/Glimmer-000000?style=for-the-badge)
+![Prokka](https://img.shields.io/badge/Prokka-000000?style=for-the-badge)
 
----
-
-## 💻 Skills
-
-**Programming**
-- Python
-- C++
-- Bash
-
-**Data Analysis**
-- Pandas
-- NumPy
-- SciPy
-- Matplotlib
-
-**Bioinformatics Tools**
-- VMD
-- Glimmer
-- Prokka
-- Gap4
-
----
-
-## 🚀 Current Goals
-
-- Contribute to bioinformatics projects
-- Apply machine learning to biological data
-- Collaborate in research and open-source projects
-- Build tools for biological data analysis
-
----
-
-## 📫 Contact
-
-- LinkedIn: https://linkedin.com/in/abril-valle
-- Email: abrilvalle64@hotmail.com
+### 📫 Let's Connect
+[LinkedIn](https://linkedin.com/in/abril-valle) | abrilvalle64@hotmail.com
