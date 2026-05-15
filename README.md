@@ -23,4 +23,4 @@ I'm a final-year Bioinformatics student from Argentina, bridging biology, data s
 ![Prokka](https://img.shields.io/badge/Prokka-000000?style=for-the-badge)
 
 ### 📫 Let's Connect
-[LinkedIn](https://linkedin.com/in/abril-valle) | abrilvalle64@hotmail.com
+[LinkedIn](https://linkedin.com/in/abril-valle) | abril.valle@ingenieria.uner.edu.ar
